@@ -1,0 +1,628 @@
+Septic Shock: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Step 1: Obtain medical history and perform clinical examination: An adult patient suspected of sepsis 
+usually complains of Fever (usually >101°F [38°C]), chills, and rigors, Confusion, Anxiety, Difficulty 
+breathing, Fatigue and malaise, Nausea and vomiting. Pallor or grayish or mottled skin are signs of 
+poor tissue perfusion seen in septic shock. Petechiae or purpura might be be observed progressively 
+over the whole body . If the patient is suffering from high fever there is a high risk of fungal infection. 
+Hence elicit a history of immunosuppressant treatment, total parenteral nutrition, Neutropenia, 
+previous long stay in ICU, severe renal failure, HIV infection, diabetes, previous Gastrointestinal 
+surgery or organ transplant history  
+
+Step 2: If suspected of Septic shock do the following things simultaneously 
+
+A) Screen for Modified early warning score (MEWS) which includes heart rate, Blood pressure, 
+respiratory rate, Axillary body temperature, mental status, urine output. 
+
+B) Start the screening for infection to rule out noninfectious diseases example intracranial infarcts or 
+hemorrhages, drug reaction   
+
+C) Admit the patient to the ICU within 6 hours of admission/presentation 
+
+D) Initiate continuous monitoring of Airway, Breathing and circulation simultaneously 
+
+(i) Airway: High oxygen flow using oxygen mask or non invasive ventilation  
+
+(ii) Breathing: Pulse oximeter 
+
+(iii) Circulation: Insert central line/ large bore cannula and monitor mean arterial pressure  
+
+Step 3: Obtain lab investigations, perform imaging studies to identify source of infection and measure 
+S/lactate simultaneously 
+
+(A) Lab investigations  : complete haemogram, liver function test including s. albumin, kidney 
+function test, PT, INR, blood culture sampling or, brochoalveolar lavage sampling before the first 
+intravenous systemic and empirical antibiotics 
+
+(B) Imaging studies  : chest x ray, ultrasound abdomen, other as suggested from clinical examination 
+
+(C) Serum lactate: >2mMol/L    
+
+(D) Arterial blood gas analysis and venous blood gas analysis 
+
+Step 4: Initiate Goal Directed Therapy and do the following things simultaneously.  
+
+(A) Fluid Resuscitation: Start crystalloids preferably balanced crystalloids instead of normal saline as 
+first choice (30ml/kg) over 30 mins   . Perform S Lactate every 30 mins   . Then check the following: 
+
+(i) Patient is responsive: MBP > 65 mmHg and S lactate level starts falling to normal range, 
+
+ 
+trend is important to note.  
+
+ 
+
+(ii) Patient is not responsive: MBP < 65 mmHg. Do the following sequentially 
+
+ 
+
+ 
+litres to bring MBP >mHg. If not responsive (MBP <65 mm Hg) move to next 
+
+(a) Start Albumin 100ml to those who have received large volume of crystalloids >2 
+
+(b) Start Norepinephrine: 0.03 units/mins. If not responsive (MBP <65 mm Hg)  stop 
+
+ 
+
+ 
+norepinephrine move to next 
+
+ 
+
+ 
+vasopressin and move to next 
+
+ 
+
+ 
+dobutamine and move to next 
+
+(c) Start Vasopressin: 0.25-0.5 ug/kg/min. If not responsive (MBP <65 mm Hg)  stop 
+
+(d) Start Dobutamine: 3-20ug/kg/min. If not responsive (MBP <65 mm Hg) stop 
+
+ 
+
+(e) Start Epinephrine: 0.01 to 20ug/kg/min. 
+
+(B) Monitor BP: Using Central line to determine if MBP > 65 mmHg. If central line is not present 
+consider peripheral lines with large bore starting from 18 G cannula  
+
+(C) Ventilation: Use High Nasal Flow O2. Also do the following simultaneously. If the patients GCS is 
+less than or Equal to 8, endotracheal intubation should be performed. 
+
+(i) There is a high risk of ARDS in which the tidal volume is low (6ml/kg), at the same time 
+
+ 
+there is high plateau pressure (30cmH2O). In these patients prone ventilation for >12 hours per day 
+is recommended 
+
+(ii) Also give intermittent NMBA   bolus, preferably Atracurium 0.1 to .2 mg per kg or Cis 
+
+ 
+atracurium 0.01 mg per kg in consulation with the Intensivist . 
+
+(D) Antimicrobial therapy to be started as per the following protocol: 
+
+(i) If shock is present (MBP < 65 mm Hg) and sepsis is also present: Start antibiotics 
+
+ 
+immediately.    pipirracillin tazobactum 4.5gm or base on the anatomical lesion suspected covering 
+both gram positive and gram negative organisms for short duration 
+
+(ii) If shock is absent (MBP > 65 mmHg) but sepsis is present: Start antibiotics immediately.   
+
+ 
+pipirracillin tazobactum 4.5gm or base on the anatomical lesion suspected covering both gram 
+positive and gram negative organisms for short duration 
+
+(iii) If shock present and sepsis is not yet diagnosed: Start antibiotics immediately.   
+
+ 
+piperricillin tazobactum 4.5 gm OR ceftrizone 1gm OR meropenem 500 mg 
+
+(iv) If shock absence and sepsis is not yet diagnosed: Hold on to administer antibiotics but 
+
+ 
+start immediately if concern persists 
+
+(E) Start antifungal therapy   if patient has high risk of fungal infection has been identified based on 
+history. Injection flucanazole 200 mg 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+(F) General Measures to be performed simultaneously: 
+
+(i) Regular blood sugar testing   (144-180 mg/dL) done from arterial blood sample or bed side 
+
+ 
+capillary blood sample from central laboratory. Start insulin therapy   if > 180 mg/dL 1unit/kg and 
+adjust with blood sugar levels 
+
+(ii) If hemoglobin is below 7gm/dL: perform blood transfusion   
+
+(iii) Consider corticosteroids 50 mg intravenous thrice daily  
+
+(iv) If there is Acute Kidney injury (oliguria say less 1ml/kg and high creatinine value) (How do you 
+diagnose this  ) initiate continuous or intermittent renal replacement therapy by intermittent dialysis   
+
+(v) Monitor pH level. If pH <7.2   it is metabolic acidosis alongwith Acute Kidney injury start 
+
+(vi) It is recommended that oral nutrition is started immediately within 72 hours of 
+
+ 
+Bicarbonate therapy (dose ) 
+
+ 
+admission 
+
+Questions: 
+
+Within how many hours should a patient suspected of severe sepsis be admitted to the ICU? 
+
+A: A patient suspected of severe sepsis should be admitted to the ICU within 6 hours of presentation. 
+
+How should we monitor the blood pressure? 
+
+A: The blood pressure should be monitored using Central line to determine if the mean blood 
+pressure is greater than 65 mmHg. If central line is not present, consider peripheral lines with large 
+bore starting from 18 G IV cannula. 
+
+What are the lab investigations that should be immediately ordered once the patient is admitted to 
+an ICU? 
+
+A: Once a patient suspected of severe sepsis is admitted to the ICU, the following lab investigations 
+need to be ordered: 
+
+Complete Haemogram 
+
+Liver Function Test including Serum Albumin 
+
+Kidney Function Test 
+
+PT, INR 
+
+Blood Culture sampling or Bronchoalveolar Lavage sampling before the first intravenous 
+
+5. 
+systemic and empirical antibiotics 
+
+What level of Serum lactate level is considered indicative of septic shock? 
+
+A: A Serum Lactate level greater than 2mMol per Litre is considered indicative of septic shock. 
+
+What are the arterial blood gas levels that I should focus on while treating a patient with septic 
+shock?  
+
+What are the questions I should ask to determine the risk of fungal infection being present? 
+
+A: A patient suffering from high fever is at high risk of fungal infection. It is important to elicit a 
+history of: 
+
+Immunosuppressant treatment 
+
+Total Parenteral Nutrition(TPN)  
+
+Neutropenia 
+
+Previous long stay in ICU  
+
+Severe Renal Failure 
+
+HIV infection 
+
+Diabetes mellitus 
+
+Previous Gastrointestinal surgery or organ transplant history 
+
+What are the venous blood gas levels that I should focus on while treating a patient with septic 
+shock?  
+
+What is the first fluid that needs to be administered to a patient with septic shock? 
+
+A: The first fluid that needs to be administered to a patient with septic shock are crystalloids, 
+preferably balanced crystalloids instead of normal saline as the first choice given as 30mL per Kg 
+infusion over 30 minutes. Monitor Mean Blood Pressure and perform Serum Lactate every 30 
+minutes. 
+
+What is the dose of crystalloids that needs to be administered to a patient with septic shock? 
+
+A:  
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+A: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A: The dose of crystalloids to be administered to a patient with septic shock is a 30mL per Kg infusion 
+over 30 minutes. 
+
+If the patient with septic shock is not responding to crystalloids and MBP is <65 mmHg then what 
+should I administer next? 
+
+A: If the patient is not responding and MBP is less than 65 mmHg, start Albumin 100ml to those who 
+have received large volume of crystalloids >2 litres to bring MBP > 65 mmHg. 
+
+What is the dose of albumin that should be administered? 
+
+A: Albumin should be administered in a dose of 100 mL to those who have received large volume of 
+crystalloids (more than 2 litres) 
+
+If the patient with septic shock is not responding to albumin and MBP is <65 mmHg then what 
+should I administer next? 
+
+A: If the patient is not responding to albumin infusion and MBP is less than 65 mmHg, stop Albumin 
+and start Norepinephrine given in a dose of 0.03 units/mins. 
+
+What is the dose of norepinephrine that should be administered? 
+
+A: Norepinephrine is given in a dose of 0.03 units/mins. 
+
+If the patient with septic shock is not responding to norepinephrine and MBP is <65 mmHg then 
+what should I administer next? 
+
+A: If the patient is not responding to norepinephrine and MBP is less than 65 mmHg, stop 
+Norepinephrine and start Vasopressin given as an infusion of 0.25-0.5 ug/kg/min. 
+
+What is the dose of vasopressin that should be administered? 
+
+A: Vasopressin should be given as an infusion of 0.25-0.5 ug/kg/min. 
+
+If the patient with septic shock is not responding to vasopressin and MBP is <65 mmHg then what 
+should I administer next? 
+
+A: If the patient is not responding to vasopressin and MBP is less than 65 mmHg, stop Vasopressin 
+and start Dobutamine given as an infusion of 3-20ug/kg/min. 
+
+What is the dose of dobutamine that should be administered? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A: Dobutamine should be given as an infusion of 3-20ug/kg/min. 
+
+If the patient with septic shock is not responding to dobutamine and MBP is <65 mmHg then what 
+should I administer next? 
+
+A: If the patient is not responding to dobutamine and MBP is less than 65 mmHg, stop Dobutamine 
+and start Epinephrine given as an infusion of 0.01 to 20ug/kg/min. 
+
+What is the dose of epinephrine that should be administered? 
+
+A: Epinephrine should be given as an infusion of 0.01 to 20ug/kg/min. 
+
+When should I consider intubating the patient? 
+
+A: If the patients Glasgow Coma Scale (GCS) score is less than 8, you should consider intubating the 
+patient. 
+
+When should I give muscle relaxants? 
+
+A: If the patients Glasgow Coma Scale (GCS) score is less than 8, give intermittent muscle relaxant 
+bolus, preferably Atracurium 0.1 to 0.2 mg per kg or Cis-Atracurium 0.01 mg per kg in consultation 
+with the Intensivist. 
+
+What is the dose of atracurium and cis-atracurium? 
+
+A: The dose of Atracurium is 0.1 to 0.2 mg per kg, and for Cis-Atracurium it is 0.01 mg per kg, to be 
+administered in consultation with the Intensivist. 
+
+When should the patients be put in prone position? 
+
+A: In patients with a GCS Score of less than 8, there is a high risk of ARDS in which the tidal volume is 
+low (6ml/kg), at the same time there is high plateau pressure (30 cm H2O). In these patients, prone 
+ventilation for more than 12 hours per day is recommended. 
+
+What is the antibiotic to start when the patient has MBP <65mmHg and sepsis is diagnosed? 
+
+A: When the patient has MBP less than 65 mmHg and sepsis is diagnosed, the following antibiotics 
+are to be started: Piperacillin-Tazobactam 4.5gm or base on the anatomical lesion suspected covering 
+both gram-positive and gram-negative organisms for a short duration. 
+
+If fungal infection is suspected what is the drug administered? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A: If fungal infection is suspected, injection Fluconazole 200 mg is administered. 
+
+What is the blood sugar level beyond which we should start insulin therapy? 
+
+A: Regular blood sugar level testing is done from arterial blood sample or bed side capillary blood 
+sample from central laboratory. Start insulin therapy if blood sugar levels are greater than 180 
+mg/dL. 
+
+When should I start insulin therapy? 
+
+A: Insulin therapy is started when blood sugar levels are greater than 180 mg/dL. 
+
+What is the dose of insulin? 
+
+A: Insulin is started at 1unit/kg and adjusted with blood sugar levels. 
+
+How does the patient with septic shock present most commonly? 
+
+A: An adult patient suspected of sepsis usually presents with: 
+
+Fever (usually >101°F [38°C]) with chills and rigors 
+
+Pallor/grayish/mottled skin - signs of poor tissue perfusion 
+
+When should the patients be suspected of septic shock?  
+
+A: Patients should be suspcted to be in septic shock when they present with: 
+
+Fever (usually >101°F [38°C]) with chills and rigors 
+
+Confusion 
+
+Anxiety 
+
+Difficulty breathing 
+
+Fatigue and malaise 
+
+Nausea and vomiting 
+
+Petechiae or purpura 
+
+Confusion 
+
+Anxiety 
+
+Difficulty breathing 
+
+Fatigue and malaise 
+
+Nausea and vomiting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+ 
+
+3. 
+
+4. 
+
+a. 
+
+b. 
+
+c. 
+
+A: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pallor/grayish/mottled skin - signs of poor tissue perfusion 
+
+Petechiae or purpura 
+
+What should be done after identifying a patient with possible severe sepsis or septic shock? 
+
+A: If the patient is suspected of Septic shock do the following things simultaneously:  
+
+Screen for Modified early warning score (MEWS) which includes heart rate, Blood pressure, 
+
+1. 
+respiratory rate, Axillary body temperature, mental status, urine output.  
+
+Start the screening for infection to rule out noninfectious diseases example intracranial 
+
+2. 
+infarcts or hemorrhages, drug reaction    
+
+Admit the patient to the ICU within 6 hours of admission/presentation  
+
+Initiate continuous monitoring of Airway, Breathing and circulation simultaneously  
+
+Airway: High oxygen flow using oxygen mask or non invasive ventilation   
+
+Breathing: Pulse oximeter  
+
+Circulation: Insert central line/ large bore cannula and monitor mean arterial pressure   
+
+What are the steps to follow if the patient’s blood oxygen saturation level is <90% on high Fi02 
+supplemental oxygen (non-rebreather mask)?  
+
+How should I assess if the patient with severe sepsis is responding to fluid administration? 
+
+A: To assess response to fluid resuscitation in severe sepsis, ensure that the MBP is greater than 65 
+mmHg and Serum Lactate level starts falling to normal range. The trend is important to note. 
+
+When should blood transfusion be considered? 
+
+A: Blood Transfusion should be considered when patient’s hemoglobin is below 7 gm/dl. 
+
+When should corticosteroids be considered? 
+
+What is the dose of corticosteroids to be administered? 
+
+When should I suspect Acute kidney injury? 
+
+A: You can suspect Acute Kidney injury when the patient presents with oliguria, less than 1ml/kg 
+urine output and high creatinine value.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+What should I do if Acute kidney injury is suspected? 
+
+A: If suspecting Acute Kidney Injury, initiate continuous or intermittent renal replacement therapy by 
+intermittent dialysis. 
+
+When should I suspect metabolic acidosis? 
+
+A: If the blood pH falls below 7.2 , you should suspect Metabolic Acidosis. 
+
+When should I start bicarbonate therapy? 
+
+A: Bicarbonate therapy should be started if the blood pH falls below 7.2 
+
+When should oral nutrition be started?  
+
+A: Oral nutrition should be started within 72 hours of admission. 
+
+The patient has a history of organ transplant. Is there any specific medicine I should administer? 
+
+A: if the patient has a history of organ transplant, administering antibiotics like Piperacillin-
+Tazobactam 4.5gm or based on the anatomical lesion is recommended. 
+
+
